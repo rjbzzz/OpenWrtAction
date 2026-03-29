@@ -1,0 +1,6 @@
+<details> <summary> <b>OpenWrt-nikki new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+d9b8dce|Joseph Mory|Sun Mar 29 13:31:19 2026 +0800|fix: fix the behavior when DNS hijack is disabled in access control
+</details>
