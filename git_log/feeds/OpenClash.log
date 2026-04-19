@@ -1,0 +1,23 @@
+<details> <summary> <b>OpenClash new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+184daebf|vernesong|Fri Apr 10 19:03:16 2026 +0800|fix: lint message not showing
+e74807a3|vernesong|Fri Apr 10 09:20:38 2026 +0800|0.47.088
+fedeb860|vernesong|Fri Apr 10 02:22:42 2026 +0800|fix: fakeip-range6 empty #5081
+9e64414b|vernesong|Thu Apr 9 19:49:21 2026 +0800|0.47.087
+72553a79|vernesong|Thu Apr 9 19:48:56 2026 +0800|#5089
+bb60e149|vernesong|Thu Apr 9 19:30:59 2026 +0800|chore: add delay check for service stop
+2c44bf29|vernesong|Wed Apr 8 03:58:06 2026 +0800|workflow: trim history commits
+5e283c3e|vernesong|Tue Apr 7 16:35:03 2026 +0800|0.47.086
+35637972|vernesong|Tue Apr 7 12:38:54 2026 +0800|0.47.085
+b866a600|vernesong|Tue Apr 7 12:37:35 2026 +0800|chore: style adjust
+302c993f|vernesong|Tue Apr 7 10:56:49 2026 +0800|chore: onekey update restart
+7778fdb0|vernesong|Tue Apr 7 01:51:21 2026 +0800|0.47.084
+20073b84|vernesong|Tue Apr 7 01:49:24 2026 +0800|chore: allow fakeip-range6 empty
+120dc4a4|vernesong|Tue Apr 7 01:29:51 2026 +0800|chore: overwrite module support specifying configs
+2bb86420|vernesong|Mon Apr 6 07:24:34 2026 +0800|0.47.083
+
+.....................
+
+</details>

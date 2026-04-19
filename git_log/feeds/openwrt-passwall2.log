@@ -2,21 +2,21 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8e6f2fb|handsomeji|Sat Apr 4 10:47:49 2026 +0800|luci: fix UDP
-5476c71|handsomeji|Sat Apr 4 02:31:47 2026 +0800|luci: nftables compatibility with mwan3
-399e168|ShanStone|Fri Apr 3 19:39:16 2026 +0800|luci: merge conditions into the one nft rule
-0178ee1|ShanStone|Fri Apr 3 19:16:35 2026 +0800|luci: reduce unnecessary temporary files
-81e5763|A-BO|Fri Apr 3 00:39:30 2026 +0800|luci: fix missing `tls` when generating sing-box naiveproxy config
-e9c3ada|handsomeji|Thu Apr 2 22:19:59 2026 +0800|luci: 26.4.2
-4d0b410|A-BO|Thu Apr 2 21:44:23 2026 +0800|luci: optimize anytls subscribe
-211ce4e|A-BO|Wed Apr 1 21:03:49 2026 +0800|luci: optimize observatory for xray
-c865ffb|A-BO|Wed Apr 1 00:50:46 2026 +0800|luci: optimize the logic of the `allowInsecure` subscribe
-ac04b96|A-BO|Mon Mar 30 08:30:28 2026 +0800|luci: optimize and fix xray noise
-12da307|A-BO|Sun Mar 29 18:10:13 2026 +0800|luci: sing-box supports xray ech config
-b9f7bbf|A-BO|Sat Mar 28 18:28:25 2026 +0800|luci: optimize subscribe
-f9adfc3|A-BO|Sat Mar 28 12:17:46 2026 +0800|luci: add hysteria2 `keepAlivePeriod` setting
-95185b7|A-BO|Sat Mar 28 11:45:52 2026 +0800|luci: modify the default value of xray `echforcequery`
-0350c62|A-BO|Sat Mar 28 11:37:46 2026 +0800|luci: migrate xray fragment/noise to finalmask
+77ceff0|handsomeji|Mon Apr 13 19:30:30 2026 +0800|luci: fix IPv6 direct DNS
+d79275f|handsomeji|Sat Apr 11 21:06:49 2026 +0800|luci: refresh the preproxy node of the shunt node when subscribe
+acbeab0|A-BO|Fri Apr 10 10:08:04 2026 +0800|luci: add node domain DNS in subscribe settings
+acf6203|A-BO|Thu Apr 9 23:42:38 2026 +0800|luci: fix and optimize node domain DNS for xray
+f568bba|A-BO|Wed Apr 8 21:05:35 2026 +0800|luci: optimize process monitor logic
+3c941a6|A-BO|Sat Apr 11 14:44:50 2026 +0800|luci: optimize the vpslist dns for xray
+431576e|handsomeji|Sat Apr 11 00:22:50 2026 +0800|luci: adjust and optimize
+0369d90|Eldar Timraleev|Sat Apr 11 07:23:29 2026 +0300|ci: enable RU i18n package in build (#1087)
+4b4b84d|handsomeji|Fri Apr 10 03:16:41 2026 +0800|luci: 26.4.10
+89079f6|handsomeji|Fri Apr 10 02:54:25 2026 +0800|luci: remove outdated and unused logic
+55f451a|handsomeji|Thu Apr 9 17:05:52 2026 +0800|luci: add front DNS
+82756ac|handsomeji|Thu Apr 9 04:20:16 2026 +0800|luci: add node domain specify DNS over HTTPS option
+917f4aa|handsomeji|Thu Apr 9 03:10:14 2026 +0800|luci: add Xray node domain strategy
+fd58fae|handsomeji|Wed Apr 8 23:15:08 2026 +0800|luci: add node domain specify DNS option
+4894b85|A-BO|Tue Apr 7 22:55:03 2026 +0800|luci: update `Sortable.min.js` to 1.15.7 and fix up/ down button can not hidden
 
 .....................
 

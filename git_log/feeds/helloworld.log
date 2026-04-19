@@ -2,9 +2,15 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-168a26f|zxl hhyccc|Sat Apr 4 17:47:49 2026 +0800|Merge pull request #1926 from zxlhhyccc/tuic
-2b30e37|zxlhhyccc|Sat Apr 4 10:36:36 2026 +0800|luci-app-ssr-plus: Add noises 'Hex' Encode.
-c6963f7|zxl hhyccc|Thu Apr 2 01:41:39 2026 +0800|Merge pull request #1924 from zxlhhyccc/tuic
-ce6c167|zxlhhyccc|Wed Apr 1 20:34:35 2026 +0800|gn: update to GIT HEAD (2026-03-31)
-c7d55a7|zxl hhyccc|Wed Apr 1 00:34:15 2026 +0800|hysteria: update to 2.8.1
+14bb2b5|zxl hhyccc|Wed Apr 15 22:38:14 2026 +0800|Merge pull request #1938 from zxlhhyccc/tuic
+86fda9b|zxlhhyccc|Wed Apr 15 22:33:35 2026 +0800|luci-app-ssr-plus: optimize node user-agent config options
+c5b5609|zxl hhyccc|Sat Apr 11 23:49:37 2026 +0800|Merge pull request #1936 from zxlhhyccc/tuic
+e831f5a|zxlhhyccc|Sat Apr 11 13:26:52 2026 +0800|luci-app-ssr-plus: Fix UDP rules.
+c4bcbef|zxl hhyccc|Sat Apr 11 14:00:53 2026 +0800|naiveproxy: update to 147.0.7727.49-1
+900234b|zxl hhyccc|Fri Apr 10 00:46:40 2026 +0800|Merge pull request #1935 from zxlhhyccc/tuic
+cd8f6bf|zxlhhyccc|Thu Apr 9 22:37:45 2026 +0800|luci-app-ssr-plus: Optimize the code for generate NFT persistence rules.
+78cb6db|zxl hhyccc|Thu Apr 9 22:37:17 2026 +0800|Merge pull request #1933 from zxlhhyccc/tuic
+a27c78c|zxlhhyccc|Thu Apr 9 20:44:01 2026 +0800|luci-app-ssr-plus: hysteria2 hopInterval support range
+9581c96|zxl hhyccc|Thu Apr 9 20:11:21 2026 +0800|Merge pull request #1932 from zxlhhyccc/tuic
+43cbe97|zxlhhyccc|Wed Apr 8 21:45:36 2026 +0800|luci-app-ssr-plus: Smart core select and import/subscribe stability enhance.
 </details>
