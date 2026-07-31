@@ -1,9 +1,0 @@
-<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
-
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall2/compare/05d3eea935ffab3c0789828b1ac88cbc03afda60...5ef64bc0802924bc8fe2a0a06ce737dcb2905542)  
-:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
-
-SHA|Author|Date|Message
--|-|-|-
-5ef64bc|Ali Zamani J|Sun Jul 26 10:31:56 2026 +0330|luci-app-passwall2: monitor queued processes (#1197)
-</details>
